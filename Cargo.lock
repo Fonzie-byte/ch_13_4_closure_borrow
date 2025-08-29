@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "mutable_borrow"
 version = "0.1.0"
+
+[[package]]
+name = "taking_ownership"
+version = "0.1.0"
